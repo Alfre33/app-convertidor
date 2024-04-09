@@ -1,0 +1,8 @@
+.navegacion{
+    /* background: radial-gradient(circle, #16542D, #CC9A27); */
+    background: linear-gradient(70deg, #CC9A27,#16542D);
+    opacity:87%;
+    font-weight:bold;
+    height:80px;
+    margin-bottom:20px;
+}
